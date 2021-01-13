@@ -3579,3 +3579,4 @@ model_dict[model_scores.index[np.argmax(model_scores['CV_r2'])]].score(X_test, y
     0.473
 
 
+{% include lib/mathjax.html %}
