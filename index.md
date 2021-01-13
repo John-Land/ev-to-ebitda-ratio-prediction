@@ -13,7 +13,7 @@ The present value of any Cash Flow generating asset is the value of all future c
 
 In its simplest form, where we expect the cash flow (CF) to grow at the same rate for ever (g), the present value (PV) is calculated with below perpetuity formula.
 
-$PV = \frac{CF * (1+g)}{(r-g)}$
+$$PV = \frac{CF * (1+g)}{(r-g)}$$
 
 When trying to value a company based on its future cash flows, we can either look at it through the lenses of all capital providers (equity and debt providers) and we would use the FCFF (Free Cash Flow to the Firm) as the measure of cash flow (CF), or we could look at it purely as an Equity investor and we would use the FCFE (Free Cash Flow to Equity) as our measure of CF.
 
